@@ -61,6 +61,8 @@
 
 ---
 My contacts:
-<p align="center">
-<img href="https://www.facebook.com/profile.php?id=1775611104" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="20" width="20" />     
+<p align="center"> 
+<a href="https://www.facebook.com/profile.php?id=1775611104">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" width="40" />  
+</a>   
 </p>
